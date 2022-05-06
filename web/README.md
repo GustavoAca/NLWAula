@@ -33,3 +33,7 @@ Projeto para treinar HTML,CSS E JS, utilziando React com typescript, aprimorando
 * tailwind
 * node
 * Headless Ui
+*  Prisma
+* Jest
+* MailTrap
+* Insomnia
