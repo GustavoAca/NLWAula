@@ -1,0 +1,14 @@
+header{
+  background-color: rgba(56, 56, 56, .5);
+  height: 60px;
+  display: flex;
+  align-items: center;
+  
+}
+
+.dsmovie-nav-content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff
+}

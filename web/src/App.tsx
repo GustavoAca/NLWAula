@@ -1,5 +1,9 @@
+import { NavBar } from "./components/NavBar/NavBar";
 import { Widget } from "./components/Widget";
 
 export function App(){
-  return <Widget />
+  return<>
+  <NavBar />
+   <Widget />
+   </>
 }
