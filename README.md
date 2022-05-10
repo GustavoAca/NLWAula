@@ -22,6 +22,8 @@
 
 ![Reload](https://github.com/GustavoAca/FotosDeProjetos/blob/master/NWL_projeto-fots/problemas_reload.png)
 
+## Link do Widget
+  https://nlw-web-gilt.vercel.app
 
 ## Objetivo do projeto
 Projeto para treinar HTML,CSS E JS, utilziando React com typescript, aprimorando o uso da tecnologia, e aprendendo mais sobre usabilidade 
