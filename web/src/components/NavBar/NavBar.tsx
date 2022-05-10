@@ -6,10 +6,10 @@ export function NavBar() {
     <header>
       <nav className='container'>
         <div className='dsmovie-nav-content'>
-          <h1>Widget de suporte </h1>
+          <h1 >Widget de suporte </h1>
           <a href="https://github.com/GustavoAca">
-            <div className='dsmovie-contact-container'>
-              <GithubLogo className="w-20h-20" />
+            <div className="dsmovie-contact-container p-4 bg-brand-500 rounded-xl hover:bg-zinc-500 transition-colors border-brand-500  ">
+              <GithubLogo  />
               <p className='dsmovie-contact-link'>/GustavoAca</p>
             </div>
           </a>
